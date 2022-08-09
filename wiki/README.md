@@ -69,7 +69,7 @@ Read the [Getting started page](https://getbootstrap.com/docs/5.2/getting-starte
 [![Sponsors on Open Collective](https://img.shields.io/opencollective/sponsors/bootstrap)](#sponsors)
 
 
-## What's included
+## Mentoring
 
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations.
 
