@@ -4,13 +4,10 @@
   </a>
 </p>
 
-<h3 align="center">WELCOME TO AMAZING BINGO DEPARTMENT WIKI!</h3>
+<h1 align="center">WELCOME TO AMAZING BINGO DEPARTMENT WIKI!</h1>
 
 <p align="center">
   Sleek, intuitive, and powerful front-end framework for playing Bingo and easier web development with JavaScript technology and CSS layering.
-  <br>
-  <a href="https://getbootstrap.com/docs/5.2/"><strong>Explore Bootstrap docs »</strong></a>
-  <br>
   <br>
   <a href="https://github.com/twbs/bootstrap/issues/new?assignees=-&labels=bug&template=bug_report.yml">Report bug</a>
   ·
@@ -22,7 +19,7 @@
 </p>
 
 
-## Bootstrap 5
+## Amazing Bingo Department
 
 Our default branch is for development of our Bootstrap 5 release. Head to the [`v4-dev` branch](https://github.com/twbs/bootstrap/tree/v4-dev) to view the readme, documentation, and source code for Bootstrap 4.
 
@@ -42,7 +39,7 @@ Our default branch is for development of our Bootstrap 5 release. Head to the [`
 - [Copyright and license](#copyright-and-license)
 
 
-## Quick start
+## Internal Regulations
 
 Several quick start options are available:
 
@@ -241,6 +238,6 @@ Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com
 [![Backers](https://opencollective.com/bootstrap/backers.svg?width=890)](https://opencollective.com/bootstrap#backers)
 
 
-## Copyright and license
+## Copyright declaration
 
 Copyright © 2020-2023 Amazing Bingo Department. All rights reserved.
