@@ -1,9 +1,9 @@
-<h0 align="center">WELCOME TO AMAZING BINGO DEPARTMENT WIKI!</h0>
-
 <p align="center">
-  <a img src="https://w7.pngwing.com/pngs/363/376/png-transparent-buzzword-bingo-game-bigo-buzzword-bingo-game-bigo.png" alt="Bootstrap logo" width="200" height="165">
+  <a <img src="https://w7.pngwing.com/pngs/363/376/png-transparent-buzzword-bingo-game-bigo-buzzword-bingo-game-bigo.png" alt="Bootstrap logo" width="200" height="165">
   </a>
 </p>
+
+<h1 align="center">WELCOME TO AMAZING BINGO DEPARTMENT WIKI!</h1>
 
 <p align="center">
   Sleek, intuitive, and powerful front-end framework for playing Bingo and easier web development with JavaScript technology and CSS layering.
@@ -20,9 +20,8 @@
 
 ## Amazing Bingo Department
 
-<p align="center">
 Our default branch is for development of our Bootstrap 5 release. Head to the [`v4-dev` branch](https://github.com/twbs/bootstrap/tree/v4-dev) to view the readme, documentation, and source code for Bootstrap 4.
-</p>
+
 
 ## Table of contents
 
