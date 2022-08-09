@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
-domain: amaxingbingodepartment.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://amazingbingodepartment.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /wiki/      # place folder name if the site is served in a subfolder
+domain: amazingbingodepartment.github.io
+url: https://amazingbingodepartment.github.io
+baseurl: /wiki/
