@@ -6,3 +6,4 @@ AMAZINGLY, IN 2022 THE CLANDESINE DEPARTMENT REACHED A HR STATUS OF NO LESS THAN
 <br>
 CONTACT THE HOLY MANAGEMENT THROUGH SLACK.
 <br>
+<img src="https://w7.pngwing.com/pngs/363/376/png-transparent-buzzword-bingo-game-bigo-buzzword-bingo-game-bigo.png">
