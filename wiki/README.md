@@ -1,6 +1,5 @@
 <p align="center">
-  <a <img src="https://w7.pngwing.com/pngs/363/376/png-transparent-buzzword-bingo-game-bigo-buzzword-bingo-game-bigo.png" alt="Bootstrap logo" width="200" height="165">
-  </a>
+  <img src="https://w7.pngwing.com/pngs/363/376/png-transparent-buzzword-bingo-game-bigo-buzzword-bingo-game-bigo.png" alt="Bootstrap logo" width="200" height="165">
 </p>
 
 <h1 align="center">WELCOME TO AMAZING BINGO DEPARTMENT WIKI!</h1>
