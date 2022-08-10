@@ -20,7 +20,7 @@
 ## Amazing Bingo Department
 
 New wikistie engineered with JavaScript, HTML and a little bit of PowerShell with an scent of SCSS (Syntactic Cascade Style Sheets).
-With data stored in the United States of America and a secure layer socket in the Swiss Confederation, access is armored.
+With data stored in the United States of America and a transport layer security system under the Swiss Confederation lawsuit, access is armored.
 
 
 ## Table of contents
