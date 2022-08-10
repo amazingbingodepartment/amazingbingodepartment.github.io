@@ -198,29 +198,6 @@ See [the Releases section of our GitHub project](https://github.com/twbs/bootstr
 - <https://twitter.com/fat>
 - <https://github.com/fat>
 
-
-## Thanks
-
-<a href="https://www.browserstack.com/">
-  <img src="https://live.browserstack.com/images/opensource/browserstack-logo.svg" alt="BrowserStack" width="192" height="42">
-</a>
-
-Thanks to [BrowserStack](https://www.browserstack.com/) for providing the infrastructure that allows us to test in real browsers!
-
-<a href="https://www.netlify.com/">
-  <img src="https://www.netlify.com/v3/img/components/full-logo-light.svg" alt="Netlify" width="147" height="40">
-</a>
-
-Thanks to [Netlify](https://www.netlify.com/) for providing us with Deploy Previews!
-
-
-## Backers
-
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/bootstrap#backer)]
-
-[![Backers](https://opencollective.com/bootstrap/backers.svg?width=890)](https://opencollective.com/bootstrap#backers)
-
-
 ## Copyright declaration
 
 Copyright © 2020-2023 Amazing Bingo Department. All rights reserved.
